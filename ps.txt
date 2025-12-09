@@ -1,0 +1,18 @@
+Here is the problem statement - 
+
+Background
+POWERGRID is executing huge number of projects across India. These projects are of national importance. Delay in completion of projects must be avoided.
+
+Description
+The goal is to plan and predict goods and materials demand to help the business stay as profitable as possible. Based on various factors, a forecasting solution should provide the ##quantity of materials## to be procured on a ##periodic basis## to avoid project time and cost overruns.
+
+Key input factors include:
+Budget
+Upcoming project locations
+Tower types and sub-station types
+Geographic locations
+Taxes
+
+
+Expected Solution
+The solution should provide accurate demand forecasting for various materials to minimize costs, avoid shortages or overstocking, and improve overall supply chain efficiency.
