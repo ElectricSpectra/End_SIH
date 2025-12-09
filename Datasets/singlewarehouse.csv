@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,state,region,material_name,material_category,current_stock_mt,capacity_mt,unit,reorder_level_mt,safety_stock_mt,lead_time_days,supplier_name,last_updated,storage_location,batch_number,expiry_date,storage_cost_per_mt_month,material_grade,quality_certificate
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Galvanized Lattice Steel,Steel,850.5,2000,MT,400,200,45,Tata Steel Ltd,2024-12-08,Zone-A Bay-1,STL-2024-001,N/A,220.81,IS 2062 Grade E250,CERT-STL-2024-001
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Reinforcement Steel,Steel,324.8,500,MT,150,75,30,JSW Steel,2024-12-07,Zone-A Bay-2,STL-2024-002,N/A,215.50,Fe 500D,CERT-STL-2024-002
+WH001,PGCIL Central Warehouse,Maharashtra,Western,High-Tensile Bolts,Hardware,15000,35000,Nos,8000,3000,20,L&T Engineering,2024-12-08,Zone-B Rack-1,HW-2024-001,N/A,2.5,IS 1367 Grade 8.8,CERT-HW-2024-001
+WH001,PGCIL Central Warehouse,Maharashtra,Western,ACSR Zebra Conductor,Conductor,456.2,800,MT,200,80,60,Sterlite Power,2024-12-06,Zone-C Bay-1,COND-2024-001,N/A,304.12,ACSR 300/50,CERT-COND-2024-001
+WH001,PGCIL Central Warehouse,Maharashtra,Western,ACSR Panther Conductor,Conductor,189.4,400,MT,120,50,60,Apar Industries,2024-12-07,Zone-C Bay-2,COND-2024-002,N/A,298.50,ACSR 400/50,CERT-COND-2024-002
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Earth Wire GSS,Conductor,67.8,150,MT,40,20,55,KEC International,2024-12-08,Zone-C Bay-3,COND-2024-003,N/A,285.00,7/3.15mm GSS,CERT-COND-2024-003
+WH001,PGCIL Central Warehouse,Maharashtra,Western,OPGW Cable,Conductor,45.6,100,MT,30,15,75,Finolex Cables,2024-12-05,Zone-C Bay-4,COND-2024-004,N/A,450.00,OPGW 48 Fiber,CERT-COND-2024-004
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Disc Insulators,Insulator,12500,25000,Nos,6000,2500,40,NGK Insulators,2024-12-08,Zone-D Rack-1,INS-2024-001,N/A,345.49,160 kN,CERT-INS-2024-001
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Polymer Insulators,Insulator,3400,8000,Nos,2000,800,35,Aditya Birla,2024-12-07,Zone-D Rack-2,INS-2024-002,N/A,320.25,Composite Type,CERT-INS-2024-002
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Suspension Clamps,Hardware,5600,12000,Nos,3000,1200,25,Powertech Engineers,2024-12-08,Zone-B Rack-2,HW-2024-002,N/A,2.8,Forged Aluminum,CERT-HW-2024-002
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Tension Clamps,Hardware,4200,10000,Nos,2500,1000,25,Kalpataru Power,2024-12-08,Zone-B Rack-3,HW-2024-003,N/A,3.2,Cast Steel,CERT-HW-2024-003
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Concrete M25,Concrete,1847.5,3000,Cum,800,300,15,UltraTech Cement,2024-12-08,Zone-E Bay-1,CONC-2024-001,2025-03-08,91.62,M25 Grade,CERT-CONC-2024-001
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Concrete M30,Concrete,654.3,1000,Cum,300,120,15,ACC Cement,2024-12-07,Zone-E Bay-2,CONC-2024-002,2025-03-07,95.80,M30 Grade,CERT-CONC-2024-002
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Steel Washers,Hardware,25000,50000,Nos,12000,5000,20,Sundaram Fasteners,2024-12-08,Zone-B Rack-4,HW-2024-004,N/A,1.5,Spring Steel,CERT-HW-2024-004
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Grounding Rods Copper,Hardware,890,2000,Nos,500,200,30,Hindalco Industries,2024-12-07,Zone-B Rack-5,HW-2024-005,N/A,8.5,Copper 99.9%,CERT-HW-2024-005
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Earthing Cable,Hardware,1234,3000,M,800,300,25,Polycab Wires,2024-12-08,Zone-B Rack-6,HW-2024-006,N/A,4.2,PVC Insulated,CERT-HW-2024-006
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Anti-Climbing Guards,Hardware,567,1500,Nos,400,150,20,GI Fabricators,2024-12-08,Zone-B Rack-7,HW-2024-007,N/A,12.5,Galvanized Iron,CERT-HW-2024-007
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Danger Plates,Hardware,1890,4000,Nos,1000,400,15,Safety Signs Co,2024-12-08,Zone-B Rack-8,HW-2024-008,N/A,0.8,Reflective Type,CERT-HW-2024-008
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Aviation Warning Markers,Hardware,345,800,Nos,200,80,30,Beacon Systems,2024-12-07,Zone-B Rack-9,HW-2024-009,2026-12-07,15.0,LED Type,CERT-HW-2024-009
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Tower Members L-Section,Steel,267.8,600,MT,180,70,40,Tower Fabricators,2024-12-06,Zone-A Bay-3,STL-2024-003,N/A,225.00,IS 2062,CERT-STL-2024-003
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Cross Arms Assembly,Hardware,234,600,Sets,150,60,35,Transmission Parts,2024-12-07,Zone-B Rack-10,HW-2024-010,N/A,45.0,Hot Dip Galvanized,CERT-HW-2024-010
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Jumper Loops,Conductor,78.9,200,Sets,50,20,40,Cable Assemblies,2024-12-08,Zone-C Bay-5,COND-2024-005,N/A,180.00,Copper ACSR,CERT-COND-2024-005
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Spacer Dampers,Hardware,456,1000,Nos,300,120,30,Vibration Control,2024-12-07,Zone-B Rack-11,HW-2024-011,N/A,25.5,Neoprene Type,CERT-HW-2024-011
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Vibration Dampers,Hardware,789,2000,Nos,500,200,30,Damper Systems,2024-12-08,Zone-B Rack-12,HW-2024-012,N/A,18.0,Stockbridge Type,CERT-HW-2024-012
+WH001,PGCIL Central Warehouse,Maharashtra,Western,Corona Rings,Hardware,234,600,Nos,150,60,25,HV Components,2024-12-08,Zone-B Rack-13,HW-2024-013,N/A,35.0,Aluminum Alloy,CERT-HW-2024-013

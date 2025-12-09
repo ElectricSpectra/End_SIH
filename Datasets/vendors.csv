@@ -1,0 +1,77 @@
+vendor_id,vendor_name,material_category,state,capacity_mt_yr,lead_time_days,bulk_discount_pct,current_price_per_mt,gst_pct
+VN0053,ACC Concrete Ltd,Concrete,Gujarat,15000,40,6.77,3096.8,18
+VN0054,ACC Concrete Ltd - Div 2,Concrete,Gujarat,8000,18,3.38,3095.43,18
+VN0055,Ambuja Cements,Concrete,Haryana,8000,30,7.97,2982.72,12
+VN0056,Ambuja Cements - Div 2,Concrete,Haryana,25000,19,4.22,2808.43,5
+VN0049,Concrete Technology,Concrete,Maharashtra,30000,48,5.91,2594.76,5
+VN0050,Concrete Technology - Div 2,Concrete,Maharashtra,20000,46,4.96,2579.1,18
+VN0058,Dalmia Bharat,Concrete,Odisha,25000,45,7.11,2656.42,12
+VN0048,Layne Christensen India,Concrete,Uttar Pradesh,15000,38,2.03,2718.53,12
+VN0057,Madras Cement,Concrete,Tamil Nadu,30000,44,7.78,2917.45,18
+VN0051,Prabhat Concrete,Concrete,Rajasthan,8000,46,5.26,2763.92,12
+VN0059,Shree Cement,Concrete,Rajasthan,12000,44,7.07,2784.35,12
+VN0052,Ultratech Concrete,Concrete,Karnataka,30000,59,5.54,3124.04,18
+VN0017,Apar Industries,Conductor,Maharashtra,2000,37,4.37,182808.39,18
+VN0019,Aravali Infrapower,Conductor,Rajasthan,3000,52,5.91,197220.31,5
+VN0029,Diamond Power,Conductor,Karnataka,4000,41,4.14,198627.11,5
+VN0030,Diamond Power - Div 2,Conductor,Karnataka,2000,40,4.56,196479.6,5
+VN0027,Dynamic Cables,Conductor,West Bengal,4000,35,7.28,188394.03,12
+VN0032,ERJ-TECH Conductors,Conductor,Gujarat,3000,57,3.46,180672.09,5
+VN0031,Hindustan Urban,Conductor,Tamil Nadu,10000,21,5.2,186194.53,5
+VN0028,Lumino Cables,Conductor,Gujarat,7500,19,4.74,181492.69,12
+VN0025,Oswal Cables,Conductor,Tamil Nadu,7500,45,6.17,178907.3,18
+VN0026,Oswal Cables - Div 2,Conductor,Tamil Nadu,7500,28,6.53,181056.65,18
+VN0023,Shashi Cables,Conductor,Uttar Pradesh,10000,52,2.24,189193.09,12
+VN0024,Shashi Cables - Div 2,Conductor,Uttar Pradesh,3000,26,3.21,193560.54,5
+VN0022,Super Tech Conductors,Conductor,Uttar Pradesh,4000,50,7.83,194151.7,5
+VN0018,Venkateswara Wires,Conductor,Rajasthan,4000,30,6.27,191595.55,18
+VN0020,Vikas Cables,Conductor,Delhi,5000,47,2.57,185866.03,12
+VN0021,Vikas Cables - Div 2,Conductor,Delhi,7500,48,5.55,183539.92,18
+VN0067,Electromech & Transtech,Hardware,West Bengal,5000,35,5.54,10875.2,12
+VN0068,Electromech & Transtech - Div 2,Hardware,West Bengal,5000,28,4.16,11018.3,5
+VN0062,Exalt Engineering,Hardware,Maharashtra,2000,52,3.76,12662.6,18
+VN0071,L&T Electrical,Hardware,Maharashtra,3000,29,7.86,13019.12,12
+VN0072,L&T Electrical - Div 2,Hardware,Maharashtra,2000,30,4.39,12881.38,12
+VN0074,Lambda Eastern,Hardware,West Bengal,3000,14,3.04,11352.94,12
+VN0073,Ranjit Singh & Company,Hardware,Haryana,1500,50,3.11,11622.21,18
+VN0065,Rashtraudhyog Ltd,Hardware,Uttar Pradesh,5000,25,7.32,11061.65,12
+VN0066,Rashtraudhyog Ltd - Div 2,Hardware,Uttar Pradesh,1500,45,5.47,11074.2,5
+VN0069,S.R. Electrical,Hardware,Punjab,4000,57,7.79,12012.39,12
+VN0070,S.R. Electrical - Div 2,Hardware,Punjab,4000,45,5.19,12141.36,18
+VN0075,Sterling & Wilson,Hardware,Maharashtra,5000,38,5.96,12231.25,5
+VN0076,Sterling & Wilson - Div 2,Hardware,Maharashtra,4000,35,6.38,11856.92,12
+VN0063,Supreme & Co,Hardware,Delhi,1000,37,7.48,11994.4,5
+VN0064,Supreme & Co - Div 2,Hardware,Delhi,3000,58,3.17,11318.82,12
+VN0060,Tyco Electronics India,Hardware,Karnataka,1500,45,6.03,12457.8,18
+VN0061,Tyco Electronics India - Div 2,Hardware,Karnataka,2000,55,7.26,13078.75,5
+VN0036,ABB India,Insulator,Karnataka,1500,39,7.91,8931.35,18
+VN0044,Allied Ceramics,Insulator,Rajasthan,500,15,7.98,9249.34,5
+VN0045,Allied Ceramics - Div 2,Insulator,Rajasthan,2000,45,5.8,8549.04,18
+VN0047,Bikaner Ceramics,Insulator,Rajasthan,1500,51,6.01,8101.37,12
+VN0035,Elektrolites Power,Insulator,Maharashtra,2000,45,7.45,8045.37,12
+VN0042,G. Nandy Electronics,Insulator,West Bengal,500,24,4.05,7718.01,18
+VN0043,G. Nandy Electronics - Div 2,Insulator,West Bengal,2500,55,3.55,8286.38,12
+VN0046,General Power Solutions,Insulator,Uttar Pradesh,1000,33,7.32,8726.49,18
+VN0038,PR Engineering,Insulator,Punjab,2500,24,6.9,8535.66,5
+VN0039,PR Engineering - Div 2,Insulator,Punjab,1500,19,6.17,8598.85,18
+VN0033,Power-grid Switchgears,Insulator,Gujarat,500,25,3.51,8624.46,5
+VN0034,Power-grid Switchgears - Div 2,Insulator,Gujarat,2000,30,3.6,9154.16,12
+VN0037,Siemens India,Insulator,Maharashtra,1000,30,6.37,9279.65,12
+VN0040,Switchgear & Structures,Insulator,Delhi,1000,39,5.07,8227.33,18
+VN0041,Switchgear & Structures - Div 2,Insulator,Delhi,1500,54,6.15,8402.31,12
+VN0007,Essar Steel,Steel,Gujarat,25000,57,5.09,50220.98,18
+VN0005,JSNL - Jamshedpur Steel,Steel,Jharkhand,20000,57,2.14,47958.2,18
+VN0006,JSNL - Jamshedpur Steel - Div 2,Steel,Jharkhand,7500,41,7.84,46170.26,12
+VN0002,JSW Steel,Steel,Karnataka,7500,32,2.6,48263.77,5
+VN0009,Karam Steel,Steel,Punjab,25000,22,2.1,47138.78,18
+VN0010,Karam Steel - Div 2,Steel,Punjab,15000,20,5.66,50904.97,18
+VN0011,Pushpak Steels,Steel,Maharashtra,5000,49,3.09,51047.19,12
+VN0012,Pushpak Steels - Div 2,Steel,Maharashtra,25000,55,5.41,46463.24,12
+VN0008,Regal Steel,Steel,Maharashtra,10000,20,3.02,47156.07,5
+VN0003,SAIL - Bokaro,Steel,Jharkhand,10000,35,2.34,48226.32,12
+VN0004,SAIL - Bokaro - Div 2,Steel,Jharkhand,25000,15,3.09,44991.53,12
+VN0013,Swastika Steel,Steel,West Bengal,15000,47,4.37,51275.3,18
+VN0014,Swastika Steel - Div 2,Steel,West Bengal,25000,36,5.13,51490.22,5
+VN0001,Tata Steel Limited,Steel,Jharkhand,15000,42,3.1,50990.95,5
+VN0015,Vatco Steel,Steel,Maharashtra,20000,31,5.24,50390.23,5
+VN0016,Vatco Steel - Div 2,Steel,Maharashtra,15000,58,2.85,51765.42,5
